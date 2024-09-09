@@ -1,1 +1,1 @@
-# project
+I applied HTML5, JavaScript, and CSS3 to create a Ludo Game for fun and enjoyment, which will relax our mind and reduces Stress. The primary goal was to create a web-based version of the classic Ludo board game with an engaging user interface and smooth gameplay. I started with HTML5 to define the games structure. Next, I used CSS3 to style the game and make it visually appealing. The game logic and interactivity were handled using JavaScript.
